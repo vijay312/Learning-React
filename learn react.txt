@@ -1,0 +1,4 @@
+1) install node js
+2) visual studio code
+3) create new project - npm install -g create-react-app appName
+4)npm start to start website on browser
